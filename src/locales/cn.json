@@ -1,0 +1,53 @@
+{
+  "copiedToClipBoard": "复制到剪贴板",
+  "maxAmountLabel": "最大",
+  "maintenance": {
+    "title": "Sorry, we're under maintenance",
+    "text": "We'll be back shortly. In the meantime, check out our social networks."
+  },
+  "Something went wrong": "Something went wrong",
+  "pageNotFound": "The requested page found cannot be.",
+  "May the force be with you!": "May the force be with you!",
+  "Go back to main site": "Go back to main site",
+  "Or subscribe to our social networks": "Or subscribe to our social networks",
+  "mainMenu": {
+    "home": "主页",
+    "trade": "兑换",
+    "liquidity": "池",
+    "analytics": {
+      "analytics": "分析学",
+      "overview": "概要",
+      "tokens": "代币",
+      "pairs": "交易对"
+    },
+    "ino": {
+      "ino": "INO"
+    },
+    "more": "更多",
+    "Farming": "Farming",
+    "asteroidMining": "小行星采矿",
+    "captainsIno": "船长 INO",
+    "bridge": "GRVX Bridge"
+  },
+  "swap": "兑换",
+  "networkSwitchingError": "网络切换错误",
+  "differentNetworks": "我们发现您的钱包和我们的网站上选择了不同的网络。",
+  "pleaseChoose": "请选择你想要的网络",
+  "changeNetworkInTheWallet": "在钱包里换网络",
+  "orChangeNetwork": "或者在我们的网站上更改网络",
+  "connectToWallet": "连接到钱包",
+  "chooseNetwork": "选择网络",
+  "chooseWallet": "选择钱包",
+  "account": "账户",
+  "balanceTitle": "余额",
+  "networks": "网络",
+  "binanceSmartChain": "币安智能链",
+  "huobiEcoChain": "火币生态链",
+  "Polygon (Matic)": "Polygon (Matic)",
+  "viewOnBscscan": "在BSCScan浏览器上查看",
+  "viewOnHecoInfo": "在HecoInfo浏览器上查看",
+  "viewOnEtherScan": "在EtherScan浏览器上查看",
+  "MaticInfo": "在Matic浏览器上查看",
+  "transactionHistory": "交易历史记录",
+  "disconnect": "链接断开"
+}

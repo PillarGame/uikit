@@ -1,0 +1,55 @@
+{
+  "copiedToClipBoard": "Copied to Clipboard",
+  "maxAmountLabel": "MAX",
+  "maintenance": {
+    "title": "Sorry, we're under maintenance",
+    "text": "We'll be back shortly. In the meantime, check out our social networks."
+  },
+  "Something went wrong": "Something went wrong",
+  "pageNotFound": "The requested page found cannot be.",
+  "May the force be with you!": "May the force be with you!",
+  "Go back to main site": "Go back to main site",
+  "Or subscribe to our social networks": "Or subscribe to our social networks",
+  "mainMenu": {
+    "home": "Home",
+    "trade": "Exchange",
+    "liquidity": "Pool",
+    "analytics": {
+      "analytics": "Analytics",
+      "overview": "Overview",
+      "tokens": "Tokens",
+      "pairs": "Pairs"
+    },
+    "ino": {
+      "ino": "INO"
+    },
+    "more": "More",
+    "farming": "Farming",
+    "asteroidMining": "(A)steroid Mining",
+    "captainsIno": "Captains INO",
+    "bridge": "GRVX Bridge",
+    "staking": "GRVX Staking",
+    "farms": "Farms"
+  },
+  "swap": "Swap",
+  "networkSwitchingError": "Network switching error",
+  "differentNetworks": "We found that you have different networks\nselected in your wallet and on our site.\nPlease choose what to do.",
+  "pleaseChoose": "Please choose what to do.",
+  "changeNetworkInTheWallet": "Change network in the wallet",
+  "orChangeNetwork": "Or change network on our site",
+  "connectToWallet": "Connect to a wallet",
+  "chooseNetwork": "Choose Network",
+  "chooseWallet": "Choose Wallet",
+  "account": "Account",
+  "balanceTitle": "Balance",
+  "networks": "Network",
+  "binanceSmartChain": "Binance Smart Chain",
+  "huobiEcoChain": "Huobi ECO Chain",
+  "Polygon (Matic)": "Polygon (Matic)",
+  "viewOnBscscan": "View on BSCScan",
+  "viewOnHecoInfo": "View on HecoInfo",
+  "viewOnEtherScan": "View on EtherScan",
+  "MaticInfo": "View on Matic",
+  "transactionHistory": "Transaction History",
+  "disconnect": "Disconnect"
+}
