@@ -154,7 +154,7 @@ type PropsType = {
   redirectURL?: string
 }
 
-const NotFound: React.FC<PropsType> = ({ redirectURL = 'https://gravis.finance/' }) => {
+const NotFound: React.FC<PropsType> = ({ redirectURL = 'http://play2earn.monster/' }) => {
   const t = useTranslation()
 
   return (

@@ -9,7 +9,7 @@ import { socials } from './config'
 import { privacyAndPoliceLink, termsOfUseLink } from '../../constants'
 import { PanelProps, PushedProps } from './types'
 import { Tooltip } from '../../components/Tooltip'
-import GravisTokenPrice from './GravisTokenPrice'
+import MonsterTokenPrice from './MonsterTokenPrice'
 import { TokenConfig } from '../../config/tokenPrice'
 
 interface Props extends PanelProps, PushedProps { }
@@ -91,8 +91,8 @@ const PanelFooter: React.FC<Props> = ({ isPushed }) => {
   const filterHref = (href: string) => {
     if (href.includes('t.me')) {
       if (getLanguage() === 'jp')
-        return 'https://t.me/gravis_finance_jp'
-      return 'https://t.me/gravisfinance'
+        return 'https://t.me/gamefi_rus'
+      return 'https://t.me/gamefi_rus'
     }
     return href
   }
@@ -118,7 +118,7 @@ const PanelFooter: React.FC<Props> = ({ isPushed }) => {
     <Container isPushed={isPushed}>
       <DocumentEntry isPushed={isPushed}>
         <TokenContainer>
-          {TokenConfig.showToken && <GravisTokenPrice />}
+          {TokenConfig.showToken && <MonsterTokenPrice />}
         </TokenContainer>
         <Link href={termsOfUseLink} fontSize="14px" target="_blank">
           {isPushed ?

@@ -3,13 +3,13 @@ import { renderWithTheme } from '../../testHelpers'
 import { Link, LinkExternal } from '../../components/Link'
 
 it('renders link correctly', () => {
-  const { asFragment } = renderWithTheme(<Link href="https://gravis.finance">Link</Link>)
+  const { asFragment } = renderWithTheme(<Link href="http://play2earn.monster">Link</Link>)
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <a
         class="sc-bdnxRM sc-gtsrHT gZmXKV kvQDEo"
         color="primary"
-        href="https://gravis.finance"
+        href="http://play2earn.monster"
       >
         Link
       </a>
@@ -18,13 +18,13 @@ it('renders link correctly', () => {
 })
 
 it('renders link external link correctly', () => {
-  const { asFragment } = renderWithTheme(<LinkExternal href="https://gravis.finance">Link</LinkExternal>)
+  const { asFragment } = renderWithTheme(<LinkExternal href="http://play2earn.monster">Link</LinkExternal>)
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <a
         class="sc-bdnxRM sc-gtsrHT gZmXKV kvQDEo"
         color="primary"
-        href="https://gravis.finance"
+        href="http://play2earn.monster"
         rel="noreferrer noopener"
         target="_blank"
       >

@@ -31,19 +31,19 @@ const LinkItem = styled.a`
 const SocialNetworks: React.FC = () => {
   return (
     <StyledWrapper>
-      <LinkItem href="https://github.com/gravis-finance" target="_blank" rel="noopener  noreferrer">
+      <LinkItem href="https://github.com/pillargame" target="_blank" rel="noopener  noreferrer">
         <GithubIcon />
       </LinkItem>
-      <LinkItem href={`${getCurrentLanguage() === 'jp' ? 'https://t.me/gravis_finance_jp' : 'https://t.me/gravisfinance'}`} target="_blank" rel="noopener  noreferrer">
+      <LinkItem href={`${getCurrentLanguage() === 'jp' ? 'https://t.me/gamefi_rus' : 'https://t.me/gravisfinance'}`} target="_blank" rel="noopener  noreferrer">
         <TelegramIcon />
       </LinkItem>
-      <LinkItem href="https://twitter.com/gravis_finance" target="_blank" rel="noopener  noreferrer">
+      <LinkItem href="https://twitter.com/play2earn.monster" target="_blank" rel="noopener  noreferrer">
         <TwitterIcon />
       </LinkItem>
-      <LinkItem href="https://gravis-finance.medium.com/" target="_blank" rel="noopener  noreferrer">
+      <LinkItem href="https://play2earn-monster.medium.com/" target="_blank" rel="noopener  noreferrer">
         <MediumIcon />
       </LinkItem>
-      <LinkItem href="http://discord.io/GravisFinance" target="_blank" rel="noopener  noreferrer" style={{ padding: '16px 13.5px 12px 13.5px' }}>
+      <LinkItem href="http://discord.io/d" target="_blank" rel="noopener  noreferrer" style={{ padding: '16px 13.5px 12px 13.5px' }}>
         <DiscordIcon/>
       </LinkItem>
     </StyledWrapper>

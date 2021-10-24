@@ -1,6 +1,6 @@
 {
   "name": "@pillardevelopment/uikit",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Set of UI components for projects",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

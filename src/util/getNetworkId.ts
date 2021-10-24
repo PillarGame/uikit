@@ -1,4 +1,4 @@
-import { ChainId } from '@gravis.finance/sdk'
+import { ChainId } from '@pillardevelopment/sdk'
 import { comparedNetworksIds } from '../constants'
 
 const NetworkLabels = {

@@ -267,7 +267,7 @@ it('renders correctly', () => {
                   class="sc-gtsrHT gPGjju"
                 >
                   <a
-                    aria-label="gravis home page"
+                    aria-label="monster home page"
                     class="sc-kEqXSa iOEKHm"
                     href="/"
                   >
@@ -641,7 +641,7 @@ it('renders correctly', () => {
                     aria-label="GitHub"
                     class="sc-dlnjwi sc-bkbkJK cYkXYA cHpusX sc-hHEiqL hXrWfP"
                     color="primary"
-                    href="https://github.com/gravis-finance"
+                    href="https://github.com/pillargame"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -681,7 +681,7 @@ it('renders correctly', () => {
                     aria-label="Telegram"
                     class="sc-dlnjwi sc-bkbkJK cYkXYA cHpusX sc-hHEiqL hXrWfP"
                     color="primary"
-                    href="https://t.me/gravisfinance"
+                    href="https://t.me/gamefi_rus"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -721,7 +721,7 @@ it('renders correctly', () => {
                     aria-label="Twitter"
                     class="sc-dlnjwi sc-bkbkJK cYkXYA cHpusX sc-hHEiqL hXrWfP"
                     color="primary"
-                    href="https://twitter.com/gravis_finance"
+                    href="https://twitter.com/pillargame"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -745,7 +745,7 @@ it('renders correctly', () => {
                     aria-label="Medium"
                     class="sc-dlnjwi sc-bkbkJK cYkXYA cHpusX sc-hHEiqL hXrWfP"
                     color="primary"
-                    href="https://gravis-finance.medium.com/"
+                    href="https://play2earn-monster.medium.com/"
                     rel="noreferrer noopener"
                     target="_blank"
                   >

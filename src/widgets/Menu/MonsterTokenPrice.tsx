@@ -52,7 +52,7 @@ const GRVXIconContainer = styled.div`
   padding-right: 1px;
 `
 
-const GravisTokenPrice: React.FC<Props> = ({ mobile }) => {
+const MonsterTokenPrice: React.FC<Props> = ({ mobile }) => {
 
   return (
     <StyledFlex alignItems="center" title={TokenConfig.tokenPrice ? TokenConfig.tokenPrice : ''} mobile={mobile}>
@@ -68,4 +68,4 @@ const GravisTokenPrice: React.FC<Props> = ({ mobile }) => {
   )
 }
 
-export default GravisTokenPrice
+export default MonsterTokenPrice
